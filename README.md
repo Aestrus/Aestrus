@@ -68,7 +68,7 @@ I am a 21-year-old programmer from Florida attending the University of Central F
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!--START_SECTION:waka-->
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aestrus&theme=darcula&hide_border=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aestrus&theme=darcula&hide_border=true&custom_title=Weekly Stats" />
   <!--END_SECTION:waka-->
 </a>
 
