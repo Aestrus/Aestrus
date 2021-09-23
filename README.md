@@ -44,10 +44,11 @@ I am a 21-year-old programmer from Florida attending the University of Central F
 ## &#128421; Current Projects
 - Building a personal portfolio website
 - Developer for [**Atlas Game Studios**](https://mc-atlas.com)
-- Unity Game Development
+- Game Development
 
 ## &#127919; Current Goals
 - &#9999; Educational
+  - Explore game development as much as I can 
   - Explore OpenGL programming (via Minecraft Shaders)
   - Learn more about Machine Learning with Data Science
   - Graduate from university
