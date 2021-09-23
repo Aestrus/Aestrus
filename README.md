@@ -48,7 +48,8 @@ I am a 21-year-old programmer from Florida attending the University of Central F
 
 ## &#127919; Current Goals
 - &#9999; Educational
-  - Explore game development as much as I can 
+  - Explore game development (Unity/UE4)
+  - Learn how to create my own assets (Blender, Adobe, audio assets, etc)
   - Explore OpenGL programming (via Minecraft Shaders)
   - Learn more about Machine Learning with Data Science
   - Graduate from university
