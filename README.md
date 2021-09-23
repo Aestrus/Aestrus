@@ -56,6 +56,7 @@ I am a 21-year-old programmer from Florida attending the University of Central F
   - Actively contribute to the open-source community
   - Acquire an entry-level position as a programmer
   - Work on new projects to get more experience under my belt
+  - Do at least one commit to any repository every day
 - &#128161; Personal
   - Go skydiving
   - Travel to Japan
