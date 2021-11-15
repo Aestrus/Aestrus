@@ -50,8 +50,8 @@ I am a 21-year-old programmer from Florida attending the University of Central F
 - &#9999; Educational
   - Explore game development (Unity/UE4)
   - Learn how to create my own assets (Blender, Adobe, audio assets, etc)
-  - Explore OpenGL programming (via Minecraft Shaders)
-  - Learn more about Machine Learning with Data Science
+  - Broaden my web development skills
+  - Learn more about machine learning and data science
   - Graduate from university
 - &#128188; Career
   - Actively contribute to the open-source community
