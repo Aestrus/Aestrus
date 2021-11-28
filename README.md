@@ -59,6 +59,7 @@ I am a 21-year-old programmer from Florida attending the University of Central F
   - Work on new projects to get more experience under my belt
   - Do at least one commit to any repository every day
 - &#128161; Personal
+  - Learn how to play the piano
   - Go skydiving
   - Travel to Japan
   - Successfully integrate new productivity habits into my life
