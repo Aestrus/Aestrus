@@ -44,7 +44,7 @@ I am a 21-year-old programmer from Florida attending the University of Central F
 ## &#128421; Current Projects
 - Building a personal portfolio website
 - Developer for [**Atlas Game Studios**](https://mc-atlas.com)
-- Game Development
+- Using Flutter to build apps
 
 ## &#127919; Current Goals
 - &#9999; Educational
@@ -53,6 +53,7 @@ I am a 21-year-old programmer from Florida attending the University of Central F
   - Broaden my web development skills
   - Learn more about machine learning and data science
   - Graduate from university
+  - Learn how to build apps with Flutter
 - &#128188; Career
   - Actively contribute to the open-source community
   - Acquire an entry-level position as a programmer
