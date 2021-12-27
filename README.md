@@ -20,7 +20,7 @@
 </a>
 
 ## &#128214; About Me
-I am a 21-year-old programmer from Florida attending the University of Central Florida to acquire my undergraduate degree in computer science. My current favorite language to code in is Java, but I always try to be actively learning new tools and languages. 
+I am a 22-year-old programmer from Florida attending the University of Central Florida to acquire my undergraduate degree in computer science. My current favorite language to code in is Java, but I always try to be actively learning new tools and languages. 
 
 ## &#9881; Skills
 ### Languages
