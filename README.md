@@ -72,7 +72,7 @@ I am a 22-year-old programmer from Florida attending the University of Central F
   <img align="center" height="180em" src="https://github-readme-stats-red-six-39.vercel.app/api?username=Aestrus&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=darcula&icon_color=FE7D37&custom_title=Aestrus's GitHub Stats"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-red-six-39.vercel.app/api/wakatime?username=Aestrus&theme=darcula&hide_border=true&custom_title=Weekly%20Stats&v=2"/>
+  <img align="center" src="https://github-readme-stats-red-six-39.vercel.app/api/wakatime?username=Aestrus&theme=darcula&hide_border=true"/>
 </a>
 
 <!--
