@@ -43,7 +43,7 @@ I am a 22-year-old programmer from Florida attending the University of Central F
 
 ## &#128421; Current Projects
 - Building a personal portfolio website
-- Developer for [**Atlas Game Studios**](https://mc-atlas.com)
+- Developer for [**Atlas Game Studios**](https://github.com/Atlas-Game-Studios)
 - Using Flutter to build apps
 
 ## &#127919; Current Goals
