@@ -36,24 +36,25 @@ I am a 22-year-old programmer from Florida attending the University of Central F
 ![Linux](https://img.shields.io/badge/-Linux-rgb(15%2C%2015%2C%2015)?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-rgb(15%2C%2015%2C%2015)?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-rgb(15%2C%2015%2C%2015)?&logo=react)
-![Swagger](https://img.shields.io/badge/-Swagger-rgb(15%2C%2015%2C%2015)?&logo=Swagger)
+![SwaggerHub](https://img.shields.io/badge/-Swagger-rgb(15%2C%2015%2C%2015)?&logo=Swagger)
 ![Express.js](https://img.shields.io/badge/-Express.js-rgb(15%2C%2015%2C%2015)?&logo=Express)
 ![AdobeCC](https://img.shields.io/badge/-AdobeCC-rgb(15%2C%2015%2C%2015)?&logo=adobecreativecloud&logoColor=red)
 ![Apache](https://img.shields.io/badge/-Apache-rgb(15%2C%2015%2C%2015)?&logo=Apache&logoColor=orange)
 
 ## &#128421; Current Projects
-- Building a personal portfolio website
+- Working on [**BrainBeatsv3**](https://github.com/BrainBeatsv3) for my senior design project
 - Developer for [**Atlas Game Studios**](https://github.com/Atlas-Game-Studios)
-- Using Flutter to build apps
+- Learning ML/DS
 
 ## &#127919; Current Goals
 - &#9999; Educational
   - Explore game development (Unity/UE4)
   - Learn how to create my own assets (Blender, Adobe, audio assets, etc)
-  - Broaden my web development skills
-  - Learn more about machine learning and data science
+  - Broaden my full-stack development skills
+  - Learn more about ML/DL and data science
   - Graduate from university
   - Learn how to build apps with Flutter
+  - Improve my programming knowledge
 - &#128188; Career
   - Actively contribute to the open-source community
   - Acquire an entry-level position as a programmer
