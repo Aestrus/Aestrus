@@ -20,7 +20,7 @@
 </a>
 
 ## &#128214; About Me
-I am a 22-year-old programmer from Florida attending the University of Central Florida to acquire my undergraduate degree in computer science. My current favorite language to code in is Java, but I always try to be actively learning new tools and languages. 
+I am a 22-year-old programmer currently studying to acquire my undergraduate degree in Computer Science. My most used programming language is Java, but I am always looking to expand my skillsets. 
 
 ## &#9881; Skills
 ### Languages
@@ -44,7 +44,7 @@ I am a 22-year-old programmer from Florida attending the University of Central F
 ## &#128421; Current Projects
 - Working on [**BrainBeatsv3**](https://github.com/BrainBeatsv3) for my senior design project
 - Developer for [**Atlas Game Studios**](https://github.com/Atlas-Game-Studios)
-- Learning ML/DS
+- Working on commissions and top secret projects for [**Infinia Studios**](https://infiniastudios.com)
 
 ## &#127919; Current Goals
 - &#9999; Educational
@@ -54,10 +54,11 @@ I am a 22-year-old programmer from Florida attending the University of Central F
   - Learn more about ML/DL and data science
   - Graduate from university
   - Learn how to build apps with Flutter
-  - Improve my programming knowledge
+  - Learn Rust
+  - Learn about Blockchain development
 - &#128188; Career
   - Actively contribute to the open-source community
-  - Acquire an entry-level position as a programmer
+  - Acquire an entry-level position as a developer
   - Work on new projects to get more experience under my belt
   - Do at least one commit to any repository every day
 - &#128161; Personal
@@ -72,9 +73,9 @@ I am a 22-year-old programmer from Florida attending the University of Central F
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="180em" src="https://github-readme-stats-red-six-39.vercel.app/api?username=Aestrus&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=darcula&icon_color=FE7D37&custom_title=Aestrus's GitHub Stats"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-red-six-39.vercel.app/api/wakatime?username=Aestrus&theme=darcula&hide_border=true"/>
-</a>
+</a> --!>
 
 <!--
 **Aestrus/Aestrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
