@@ -20,7 +20,7 @@
 </a>
 
 ## &#128214; About Me
-I am a 22-year-old programmer currently studying to acquire my undergraduate degree in Computer Science. My most used programming language is Java, but I am always looking to expand my skillsets. 
+I am a 23-year-old programmer and recent Computer Science graduate. My most used programming language is Java, but I am always looking to expand my skillsets. I am currently looking for a job as either a Backend Developer or a Full-Stack Developer.
 
 ## &#9881; Skills
 ### Languages
@@ -42,28 +42,25 @@ I am a 22-year-old programmer currently studying to acquire my undergraduate deg
 ![Apache](https://img.shields.io/badge/-Apache-rgb(15%2C%2015%2C%2015)?&logo=Apache&logoColor=orange)
 
 ## &#128421; Current Projects
-- Working on [**BrainBeatsv3**](https://github.com/BrainBeatsv3) for my senior design project
+- Developer for [**Skyblock Isles**](https://discord.com/invite/isles)
 - Developer for [**Atlas Game Studios**](https://github.com/Atlas-Game-Studios)
-- Working on commissions and top secret projects for [**Infinia Studios**](https://infiniastudios.com)
+- Working on commissions and "top secret" projects for [**Infinia Studios**](https://infiniastudios.com)
 
 ## &#127919; Current Goals
 - &#9999; Educational
-  - Explore game development (Unity/UE4)
+  - Explore and improve at game development (Unity/UE4)
   - Learn how to create my own assets (Blender, Adobe, audio assets, etc)
   - Broaden my full-stack development skills
   - Learn more about ML/DL and data science
-  - Graduate from university
   - Learn how to build apps with Flutter
   - Learn Rust
   - Learn about Blockchain development
 - &#128188; Career
-  - Actively contribute to the open-source community
-  - Acquire an entry-level position as a developer
+  - Acquire an entry-level position as a Backend or Full-Stack Developer
   - Work on new projects to get more experience under my belt
   - Do at least one commit to any repository every day
 - &#128161; Personal
   - Learn how to play the piano
-  - Go skydiving
   - Travel to Japan
   - Successfully integrate new productivity habits into my life
   - Financial Freedom
