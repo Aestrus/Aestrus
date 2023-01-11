@@ -1,7 +1,7 @@
 <!-- Header content -->
 ![Aestrus's Banner](https://raw.githubusercontent.com/Aestrus/Aestrus/main/assets/AestrusHeader.png "Header")
 
-# Hi, I'm Aestrus <img src="https://raw.githubusercontent.com/Aestrus/Aestrus/master/assets/wave.gif" width="40px"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aestrus.Aestrus&left_color=gray&right_color=orange)
+# Hi, I'm Aestrus <img src="https://raw.githubusercontent.com/Aestrus/Aestrus/master/assets/wave.gif" width="40px"> ![visits](https://visitor-badge.glitch.me/badge?page_id=Aestrus.Aestrus&left_color=gray&right_color=orange)
 
 <!-- Social Media Icons -->
 <a href="https://twitter.com/Aestrusss">
