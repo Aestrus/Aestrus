@@ -20,7 +20,7 @@
 </a>
 
 ## &#128214; About Me
-I am a 23-year-old programmer and recent Computer Science graduate. My most used programming language is Java, but I am always looking to expand my skillsets. I am currently looking for a job as either a Backend Developer, Full-Stack Developer, or DevOps Engineer.
+I am a 23-year-old developer and recent Computer Science graduate. My most used programming language is Java, but I am always looking to expand my skillsets. I am currently looking for a job as either a Backend Developer, Full-Stack Developer, or DevOps Engineer.
 
 ## &#9881; Skills
 ### Languages
