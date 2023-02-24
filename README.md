@@ -20,7 +20,7 @@
 </a>
 
 ## &#128214; About Me
-I am a 23-year-old developer and recent Computer Science graduate. My most used programming language is Java, but I am always looking to expand my skillsets. I am currently looking for a job as either a Backend Developer, Full-Stack Developer, or DevOps Engineer.
+I am a 23-year-old developer and recent Computer Science graduate. My most used programming language is Java, but I am always looking to expand my skillsets. I am currently looking for a job as a Software Engineer.
 
 ## &#9881; Skills
 ### Languages
@@ -42,9 +42,9 @@ I am a 23-year-old developer and recent Computer Science graduate. My most used 
 ![Apache](https://img.shields.io/badge/-Apache-rgb(15%2C%2015%2C%2015)?&logo=Apache&logoColor=orange)
 
 ## &#128421; Current Projects
-- Developer for [**Skyblock Isles**](https://discord.com/invite/isles)
+- Owner/Developer for [**Skyblock Isles**](https://discord.com/invite/isles)
 - Developer for [**Atlas Game Studios**](https://github.com/Atlas-Game-Studios)
-- Working on commissions and "top secret" projects for [**Infinia Studios**](https://infiniastudios.com)
+- Working on commissions and projects for [**Infinia Studios**](https://infiniastudios.com)
 
 ## &#127919; Current Goals
 - &#9999; Educational
