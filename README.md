@@ -15,12 +15,12 @@
 <a href="https://www.instagram.com/aestruss/">
   <img align="center" src="https://img.shields.io/badge/Instagram-Follow-rgb(85%2C%2085%2C%2085)?style=flat&logo=instagram&color=cd486b&logoColor=cd486b"/>
 </a>
-<a href="https://discord.gg/rGShCcM">
+<!--<a href="https://discord.gg/rGShCcM">
   <img align="center" src="https://img.shields.io/badge/Discord-Join-rgb(85%2C%2085%2C%2085)?style=flat&logo=discord&color=7289d9"/>
-</a>
+</a>-->
 
 ## &#128214; About Me
-I am a 23-year-old developer and recent Computer Science graduate. My most used programming language is Java, but I am always looking to expand my skillsets. I am currently looking for a job as a Software Engineer.
+I am a Software Engineer and recent Computer Science graduate. My most used programming language is Java, but I am always looking to expand my skillsets.
 
 ## &#9881; Skills
 ### Languages
@@ -56,8 +56,7 @@ I am a 23-year-old developer and recent Computer Science graduate. My most used 
   - Learn Rust
   - Learn about Blockchain development
 - &#128188; Career
-  - Acquire an entry-level position as a Backend or Full-Stack Developer
-  - Work on new projects to get more experience under my belt
+  - Grow my skillsets and gain experience to progress my career
   - Do at least one commit to any repository every day
 - &#128161; Personal
   - Learn how to play the piano
