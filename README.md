@@ -43,7 +43,7 @@ I am a Software Engineer and recent Computer Science graduate. My most used prog
 
 ## &#128421; Current Projects
 - Owner/Developer for [**Skyblock Isles**](https://discord.com/invite/isles)
-- Developer for [**Atlas Game Studios**](https://github.com/Atlas-Game-Studios)
+- Owner/Developer for [**Atlas Game Studios**](https://github.com/Atlas-Game-Studios)
 - Working on commissions and projects for [**Infinia Studios**](https://infiniastudios.com)
 
 ## &#127919; Current Goals
@@ -57,7 +57,7 @@ I am a Software Engineer and recent Computer Science graduate. My most used prog
   - Learn about Blockchain development
 - &#128188; Career
   - Grow my skillsets and gain experience to progress my career
-  - Do at least one commit to any repository every day
+  - Make a Git commit at least once a day
 - &#128161; Personal
   - Learn how to play the piano
   - Travel to Japan
