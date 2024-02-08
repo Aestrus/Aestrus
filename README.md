@@ -43,6 +43,7 @@ I am a remote Software Engineer based in Austin, TX. My most used programming la
 
 ## &#128421; Current Projects
 - Owner/Developer for [**Atlas Game Studios**](https://github.com/Atlas-Game-Studios)
+- Super secret projects :)
 
 ## &#127919; Current Goals
 - &#9999; Educational
