@@ -1,7 +1,7 @@
 <!-- Header content -->
 ![Aestrus's Banner](https://raw.githubusercontent.com/Aestrus/Aestrus/main/assets/AestrusHeader.png "Header")
 
-# Hi, I'm Aestrus <img src="https://raw.githubusercontent.com/Aestrus/Aestrus/master/assets/wave.gif" width="40px"> ![visits](https://visitor-badge.glitch.me/badge?page_id=Aestrus.Aestrus&left_color=gray&right_color=orange)
+# Hi, I'm Aestrus <img src="https://raw.githubusercontent.com/Aestrus/Aestrus/master/assets/wave.gif" width="40px">
 
 ## &#128214; About Me
 I am a remote Software Engineer based in Austin, TX. My most used programming language is Java, but I am always looking to expand my skillsets.
