@@ -3,25 +3,10 @@
 
 # Hi, I'm Aestrus <img src="https://raw.githubusercontent.com/Aestrus/Aestrus/master/assets/wave.gif" width="40px"> ![visits](https://visitor-badge.glitch.me/badge?page_id=Aestrus.Aestrus&left_color=gray&right_color=orange)
 
-<!-- Social Media Icons -->
-<a href="https://twitter.com/Aestrusss">
-  <!--<img align="center" src="https://img.shields.io/twitter/follow/aestrusss?label=Twitter&style=social&logo=twitter"/>-->
-  <img align="center" src="https://img.shields.io/badge/Twitter-Follow-rgb(85%2C%2085%2C%2085)?style=flat&logo=twitter&color=1DA1F2"/>
-</a>
-<a href="https://www.youtube.com/channel/UCMcUpPckMsfAP2Ky2GDChdA">
-  <!--<img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCMcUpPckMsfAP2Ky2GDChdA"/>-->
-  <img align="center" src="https://img.shields.io/badge/YouTube-Subscribe-rgb(85%2C%2085%2C%2085)?style=flat&logo=youtube&color=red&logoColor=red"/>
-</a>
-<a href="https://www.instagram.com/aestruss/">
-  <img align="center" src="https://img.shields.io/badge/Instagram-Follow-rgb(85%2C%2085%2C%2085)?style=flat&logo=instagram&color=cd486b&logoColor=cd486b"/>
-</a>
-<!--<a href="https://discord.gg/rGShCcM">
-  <img align="center" src="https://img.shields.io/badge/Discord-Join-rgb(85%2C%2085%2C%2085)?style=flat&logo=discord&color=7289d9"/>
-</a>-->
-
 ## &#128214; About Me
 I am a remote Software Engineer based in Austin, TX. My most used programming language is Java, but I am always looking to expand my skillsets.
 
+**This profile README is outdated and will be getting an overhaul in the near future!**
 ## &#9881; Skills
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-rgb(15%2C%2015%2C%2015)?style=flat&logo=java&logoColor=007396)
@@ -62,27 +47,3 @@ I am a remote Software Engineer based in Austin, TX. My most used programming la
   - Travel to Japan
   - Successfully integrate new productivity habits into my life
   - Financial Freedom
-
-## &#128200; GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="180em" src="https://github-readme-stats-red-six-39.vercel.app/api?username=Aestrus&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=darcula&icon_color=FE7D37&custom_title=Aestrus's GitHub Stats"/>
-</a>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-red-six-39.vercel.app/api/wakatime?username=Aestrus&theme=darcula&hide_border=true"/>
-</a> --!>
-
-<!--
-**Aestrus/Aestrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
