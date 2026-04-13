@@ -23,7 +23,6 @@ I am a Software Engineer based in Austin. While my most prominent experience is 
 </p>
 
 ## &#128421; Current Projects
-- Lead Developer for [Runeteria](https://runeteria.com/)
 - Private & secure HomeAssistant custom AIO setup
 - Portfolio Website
 - Secret stuff ;)
