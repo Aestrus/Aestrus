@@ -1,5 +1,5 @@
 <!-- Header content -->
-![Aestrus's Banner](https://raw.githubusercontent.com/Aestrus/Aestrus/main/assets/AestrusHeader.png "Header")
+![Aestrus's Banner](https://raw.githubusercontent.com/Aestrus/Aestrus/main/assets/AestrusNewHeader.png "Header")
 
 # Hi, I'm Shyam/Aestrus <img src="https://raw.githubusercontent.com/Aestrus/Aestrus/master/assets/wave.gif" width="40px">
 
